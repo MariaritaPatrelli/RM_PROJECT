@@ -1,0 +1,105 @@
+[INFO]    [runSofa] PluginRepository paths = C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin
+[INFO]    [runSofa] DataRepository paths = C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa/examples;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa/examples;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa/icons
+[INFO]    [runSofa] runSofaDataRepository paths = C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa/gui/runSofa;C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/share/sofa/gui/runSofa
+[INFO]    [GUIManager] Registered batch as a GUI.
+[INFO]    [SofaPython3] Initializing with python version 3.12.1 (tags/v3.12.1:2305ca5, Dec  7 2023, 22:03:25) [MSC v.1937 64 bit (AMD64)]
+[INFO]    [SofaPython3] Registering a scene loader for [.py, .py3, .pyscn, .py3scn] files.
+[INFO]    [SofaPython3] Initializing python
+[INFO]    [SofaPython3] Added 'C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins/SofaPython3/lib/python3/site-packages' to sys.path
+---------------------------------------
+Checking SOFA_ROOT and SOFAPYTHON3_ROOT
+Warning: environment variable SOFA_ROOT is empty. Trying to guess it.
+Guessed SOFA_ROOT: C:\Users\Peppe\Desktop\SOFA_v26.06.00_Win64
+Warning: environment variable SOFAPYTHON3_ROOT is empty. Trying to guess it.
+Guessed SOFAPYTHON3_ROOT: C:\Users\Peppe\Desktop\SOFA_v26.06.00_Win64\plugins\SofaPython3
+Found Sofa.Helper.dll in C:\Users\Peppe\Desktop\SOFA_v26.06.00_Win64\bin
+Found SofaPython3.dll in C:\Users\Peppe\Desktop\SOFA_v26.06.00_Win64\plugins\SofaPython3\bin
+---------------------------------------
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/SofaPython3.dll
+[INFO]    [runSofa] Loading automatically plugin list in C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/plugin_list.conf
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.ODESolver.Forward.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.ODESolver.Backward.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.ODESolver.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.IO.Mesh.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.IO.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Playback.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SceneUtility.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Container.Constant.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Container.Dynamic.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Container.Grid.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Container.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Mapping.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.Utility.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Topology.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Visual.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSystem.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSolver.Iterative.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSolver.Ordering.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSolver.Direct.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSolver.Preconditioner.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.LinearSolver.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Mass.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Diffusion.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Mapping.Linear.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Mapping.NonLinear.dll
+[DEPRECATED] [Sofa.Component.Mapping.MappedMatrix] This plugin is deprecated and will be removed in the future.
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Mapping.MappedMatrix.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Mapping.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.StateContainer.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.Spring.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.FEM.Elastic.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.FEM.HyperElastic.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.FEM.NonUniform.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.FEM.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.TensorMass.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.SolidMechanics.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.Lagrangian.Model.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.Lagrangian.Correction.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.Lagrangian.Solver.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.Lagrangian.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.Projective.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Constraint.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.AnimationLoop.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.MechanicalLoad.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Geometry.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Detection.Algorithm.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Detection.Intersection.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Detection.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Response.Mapper.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Response.Contact.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.Response.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Collision.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Setting.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Controller.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Engine.Analyze.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Engine.Generate.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Engine.Select.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Engine.Transform.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Engine.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.Haptics.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Component.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GL.Component.Rendering2D.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GL.Component.Rendering3D.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GL.Component.Engine.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GL.Component.Shader.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GL.Component.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GUI.Component.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.GUI.Batch.dll
+[INFO]    [GUIManager] Registered glfw as a GUI.
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/SofaGLFW.dll
+[INFO]    [SofaPython3] Added 'C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins/SofaGLFW/lib/python3/site-packages' to sys.path
+[INFO]    [GUIManager] Registered imgui as a GUI.
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/SofaImGui.dll
+[INFO]    [SofaPython3] Added 'C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins/SofaImGui/lib/python3/site-packages' to sys.path
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/MultiThreading.dll
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/Sofa.Metis.dll
+[INFO]    [PluginManager] 71 plugins have been loaded from C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/plugin_list.conf
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/STLIB.dll
+[INFO]    [SofaPython3] Added 'C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins/STLIB/lib/python3/site-packages' to sys.path
+[INFO]    [PluginManager] Loaded plugin: C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/bin/SoftRobots.dll
+[INFO]    [SofaPython3] Added 'C:/Users/Peppe/Desktop/SOFA_v26.06.00_Win64/plugins/SoftRobots/lib/python3/site-packages' to sys.path
+[WARNING] [RequiredPlugin(unnamed)] No component has been registered from unnamed.
+It could be because: 
+ - the entrypoint registerObjects() has not been implemented;
+ - (deprecated since v24.12) no sofa::core::RegisterObject() has been called;
+ - your plugin does not add any component (i.e BaseObject) into the factory. In that case, RequiredPlugin is not useful for this kind of plugin.
